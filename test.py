@@ -1,0 +1,2 @@
+print("Kristjan")
+print("Osolnik")
